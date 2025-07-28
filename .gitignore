@@ -1,6 +1,9 @@
 Input_FASTQ/
 Input_FASTQ/*.fastq
+<<<<<<< HEAD
 Input_FASTQ/*.fastq
 Output_FASTQ/
 *.html
 *.zip
+=======
+>>>>>>> 10695fb180d1ac9290db7ff089487a7f3c653d8e

@@ -1,0 +1,4 @@
+Sample_Name      File_Name
+Sample_1         GSM461177_1_subsampled.fastq
+Sample_2         GSM461177_2_subsampled.fastq
+

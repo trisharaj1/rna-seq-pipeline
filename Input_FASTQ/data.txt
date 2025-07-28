@@ -1,0 +1,3 @@
+# Drosophila_melanogaster
+https://zenodo.org/record/6457007/files/GSM461177_1.fastqsanger
+https://zenodo.org/record/6457007/files/GSM461177_2.fastqsanger
