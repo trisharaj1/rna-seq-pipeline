@@ -6,7 +6,7 @@ It goes from raw reads → QC/trimming → genome index → alignment → counti
 i didn’t upload the large fastq/bam files to github because they’re too big.  
 if you want to run this yourself, you can download the same data i used from the links below. :)  
 
-This dataset contained approximately 500 million base pairs of sequence data, with an 81.7% alignment rate to the annotated drosophila melanogaster genome.  
+This dataset contained approximately 50 million base pairs of sequence data, with an 81.7% alignment rate to the annotated drosophila melanogaster genome.  
 
 ## Data I used
 
