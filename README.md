@@ -1,12 +1,12 @@
 # RNA-seq Workflow on Drosophila
 
-This is my small RNA-seq analysis pipeline for *Drosophila melanogaster*.  
+This is my RNA-seq analysis pipeline for *Drosophila melanogaster*.  
 It goes from raw reads → QC/trimming → genome index → alignment → counting reads per gene with featureCounts.
 
-I didn’t upload the large FASTQ/BAM files to GitHub because they’re too big.  
-If you want to run this yourself, you can download the same data I used from the links below.
+i didn’t upload the large fastq/bam files to github because they’re too big.  
+if you want to run this yourself, you can download the same data i used from the links below. :)  
 
----
+This dataset contained approximately 500 million base pairs of sequence data, with an 81.7% alignment rate to the annotated drosophila melanogaster genome.  
 
 ## Data I used
 
